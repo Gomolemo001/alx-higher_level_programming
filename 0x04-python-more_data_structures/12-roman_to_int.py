@@ -37,9 +37,3 @@ def roman_to_int(roman_string):
     num += to_subtract(list_num)
 
     return (num)
-
-             last_rom = rom_n.get(ch)
-
-    num += to_subtract(list_num)
-
-    return (num)
