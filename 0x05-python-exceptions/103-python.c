@@ -10,7 +10,7 @@
 void print_python_bytes(PyObject *p)
 {
 	char *string;
-	lng int size, i, limit;
+	long int size, i, limit;
 
 	setbuf(stdout, NULL);
 
